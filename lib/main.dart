@@ -6,9 +6,6 @@ void main() {
   runApp(MyApp());
 }
 ///*
-///AIzaSyBknfoszO0VPS52COyz05y5p22zUwtIcwM
-///
-///AIzaSyAiAir1uMz3NwJDd9vjIhqeEuTUgw2S7VM
 ///
 ///
 /// 32.9573689, 35.9586301
