@@ -5,7 +5,7 @@
         android:label="maybe_of">
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBknfoszO0VPS52COyz05y5p22zUwtIcwM"/>
+            android:value=""/>
         <activity
             android:name=".MainActivity"
             android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
